@@ -10,7 +10,7 @@ export const TeleSned = () => {
           color: "white",
           embeds: [
             {
-              title: " مدونة زاجل ",
+              title: "  2 مدونة زاجل ",
               description: des,
            },
           ],
