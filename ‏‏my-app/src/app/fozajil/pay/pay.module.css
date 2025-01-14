@@ -54,6 +54,10 @@
     align-items: center;
     gap: 1rem;
 }
+.contect form label{
+    font-size:13px;
+    margin-bottom:-5px;
+}
 .curmony{
     width:80%;
     display:flex;
